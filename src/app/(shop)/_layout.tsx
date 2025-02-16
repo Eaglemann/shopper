@@ -22,6 +22,7 @@ const TabsLayout = () => {
                         borderTopLeftRadius: 20, 
                         borderTopRightRadius: 20,
                         paddingTop: 10,},
+                    headerShown: false,
 
                 }}
             >
